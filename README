@@ -1,0 +1,6 @@
+Welcome to the game Shooter.
+
+This is a shooting game. Use "a" and "d" to move your spaceship left and right. Use "w" to shoot a bullet. Bullets will disapear when: target was hit, bullet passes target, bullet reaches the top. Only one bullet can be shot on screen. When the bullet hits the target, 100 points will be added to the player's score. The game will be over when the target reaches the bottom without being shot.
+
+This was last updated 7/13/2022
+Made by Jennifer Crawford.
